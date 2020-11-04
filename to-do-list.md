@@ -30,7 +30,7 @@ Your user should be able to:
 - Make sure to commit after each block of code that you create. Give an appropriate comment.
 
 ## Starter code
-To get straight to jQuery, use the starter code and fill in the javascript.
+Use the starter code and fill in the javascript.
 
 We've provided you with some simple styling to make it easier for you to get started.
 
