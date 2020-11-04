@@ -29,18 +29,6 @@ Your user should be able to:
 
 - Make sure to commit after each block of code that you create. Give an appropriate comment.
 
-## Starter code
-Use the starter code and fill in the javascript.
-
-We've provided you with some simple styling to make it easier for you to get started.
-
-##### In the starter code:
-1. the user should see two columns and an input field.
-2. the user should be able to type a to-do item into an input box.
-3. the user should be able to click an `add` button next to this input.
-
-NOTE: if you want a challenge, feel free to start from scratch!
-
 ---
 # Getting Started
 
