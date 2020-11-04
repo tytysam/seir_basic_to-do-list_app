@@ -1,6 +1,8 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# TO DO APP
+# TO DO LIST
+
+![todo](https://1.bp.blogspot.com/-ALyHmkrwZEE/Xsatc9771bI/AAAAAAAACZA/oAqoQCm2Qv8Ee2vTQPPJVYcMgpZcb3NhACLcBGAsYHQ/s640/custom%2B%25E2%2580%2593%2B1.png)
 
 ---
 
@@ -8,10 +10,6 @@ Title: To-Do List
 Type: Homework
 
 ---
-
-# To-Do List ?
-
-![todo](https://1.bp.blogspot.com/-ALyHmkrwZEE/Xsatc9771bI/AAAAAAAACZA/oAqoQCm2Qv8Ee2vTQPPJVYcMgpZcb3NhACLcBGAsYHQ/s640/custom%2B%25E2%2580%2593%2B1.png)
 
 
 Build a To-Do list app with two columns: one for things to do, and another for things that have been done. Use JavaScript to give your app functionality.
