@@ -31,6 +31,7 @@ body {
 #input-container input {
   background-color: #ffffff;
   position: absolute;
+  width: 60%;
   top: 20%;
   left: 10px;
   border: none;
